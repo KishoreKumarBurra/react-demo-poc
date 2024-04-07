@@ -20,6 +20,6 @@
 - Tree Shaking - remove unused code
 - Different dev and prod bundles
 
-## Start the Tailwind CLI build process
+## Start the Tailwind CLI build process --
 ### Run the CLI tool to scan your template files for classes and build your CSS.
 #### npx tailwindcss -i index.css -o output.css --watch
